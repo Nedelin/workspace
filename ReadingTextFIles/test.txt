@@ -1,0 +1,3 @@
+This is text file.
+It is used for giving an example about how to read text files in java.
+end.

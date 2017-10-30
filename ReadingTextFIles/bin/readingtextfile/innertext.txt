@@ -1,0 +1,10 @@
+This
+is
+file
+in
+the
+package
+reading
+text
+file
+.

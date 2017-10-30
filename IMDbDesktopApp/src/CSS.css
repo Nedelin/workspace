@@ -1,0 +1,21 @@
+.root{
+    -fx-background-color: white;
+}
+.label{
+    -fx-text-fill: black;
+}
+
+.button-yellow{
+    -fx-background-color: #e4b721;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 4;
+    -fx-stroke: black;
+}
+#bold-label{
+    -fx-font-weight: bold;
+    -fx-stroke: black;
+}
+.button-createAcc{
+    -fx-background-color: silver;
+    -fx-stroke: black;
+}
